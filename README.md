@@ -9,7 +9,7 @@
 
 
 <!-- blog ends -->
-  More one [https://medium.com/@kamaldgrt](https://medium.com/@kamaldgt)
+  More one [https://medium.com/@kamaldgrt](https://medium.com/@kamaldgrt)
 
   
   </div>
