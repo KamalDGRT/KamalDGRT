@@ -47,17 +47,18 @@
 
 
 <a href="https://github.com/KamalDGRT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalDGRT&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalDGRT&theme=light&hide_langs_below=1" height="270px"/>
 </a>
 <a href="https://github.com/KamalDGRT">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamalDGRT&show_icons=true&theme=light&line_height=27" alt="Kamal's GitHub stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamalDGRT&show_icons=true&theme=light&line_height=27" alt="Kamal's GitHub stats" height="270px"/>
 </a>
+
 <a href="https://github.com/KamalDGRT/iclub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=iclub&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=iclub&theme=light" width="465px"/>
 
 </a>
 <a href="https://github.com/KamalDGRT/SetupStuff">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=SetupStuff&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=SetupStuff&theme=light" width="465px"/>
 </a>
 
 <div align="center">
