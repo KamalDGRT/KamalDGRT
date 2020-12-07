@@ -50,7 +50,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalDGRT&theme=light&hide_langs_below=1" height=""/>
 </a>
 <a href="https://github.com/KamalDGRT">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamalDGRT&show_icons=true&theme=light&line_height=27" alt="Kamal's GitHub stats" height=""/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamalDGRT&show_icons=true&theme=light&line_height=27" alt="Kamal's GitHub stats" height="600px"/>
 </a>
 
 <a href="https://github.com/KamalDGRT/iclub">
