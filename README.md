@@ -9,8 +9,7 @@
   <img align="left" alt="Kamal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
 - 🔭 I’m currently working on [ProgrammingQuestions](https://github.com/KamalDGRT/ProgrammingQuestions).
 - 🌱 I’m currently experimenting with Selenium and Beautiful Soup.
@@ -19,7 +18,6 @@
 - 💬 Ask me about PHP or any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamaldgrt/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 16 hours listening songs everyday.
 
 [![Linkedin: kamaldgrt](https://img.shields.io/badge/-kamaldgrt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamaldgrt/)](https://www.linkedin.com/in/kamaldgrt/)
 [![GitHub KamalDGRT](https://img.shields.io/github/followers/KamalDGRT?label=follow&style=social)](https://github.com/KamalDGRT)
@@ -42,18 +40,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 <a href="https://github.com/KamalDGRT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalDGRT&theme=light&hide_langs_below=1" height=""/>
-</a>
-<a href="https://github.com/KamalDGRT">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamalDGRT&show_icons=true&theme=light&line_height=27" alt="Kamal's GitHub stats"/>
-</a>
-
-<a href="https://github.com/KamalDGRT/iclub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=iclub&theme=light" width=""/>
-
-</a>
-<a href="https://github.com/KamalDGRT/SetupStuff">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=SetupStuff&theme=light" width=""/>
 </a>
 
 <div align="center">
