@@ -42,7 +42,7 @@
 <div align="center">
 <a href="https://github.com/KamalDGRT">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamalDGRT&show_icons=true&theme=light&line_height=25" alt="Kamal's GitHub stats"/>
-</a>
+</a><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamalDGRT&" alt="KamalDGRT" /></p>
 
