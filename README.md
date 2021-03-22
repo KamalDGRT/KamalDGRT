@@ -22,7 +22,17 @@
 [![Linkedin: kamaldgrt](https://img.shields.io/badge/-kamaldgrt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamaldgrt/)](https://www.linkedin.com/in/kamaldgrt/)
 [![GitHub KamalDGRT](https://img.shields.io/github/followers/KamalDGRT?label=follow&style=social)](https://github.com/KamalDGRT)
 
-**Languages and Tools:**  
+### Proud Creator of 😎
+
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=SetupStuff)](https://github.com/KamalDGRT/SetupStuff)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=technosummit)](https://github.com/KamalDGRT/technosummit)
+
+<h3 align="center"><strong>Show some ❤️ by starring some of the repositories!</strong></h3>
+
+<details close>
+<summary><b>More about me!</b> <i>(click to expand!)</i></summary>
+  
+### Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -39,13 +49,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-<div align="center">
+### Profile Overview 👀
+
 <a href="https://github.com/KamalDGRT">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamalDGRT&show_icons=true&theme=light&line_height=25" alt="Kamal's GitHub stats"/>
-</a><br>
+</a>
+<br><br>
+
+```
+And at last some stats to show consistency 😍😉.
+```
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamalDGRT&" alt="KamalDGRT" /></p>
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+</details>
