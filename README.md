@@ -60,6 +60,6 @@
 And at last some stats to show consistency 😍😉.
 ```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamalDGRT&" alt="KamalDGRT" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamalDGRT" alt="KamalDGRT" /></p>
 
 </details>
