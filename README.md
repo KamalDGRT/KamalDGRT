@@ -11,8 +11,8 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on [yii2-portfolio](https://github.com/KamalDGRT/yii2-portfolio).
-- 🌱 I’m currently experimenting with Selenium and Beautiful Soup.
+- 🔭 I’m currently working on [Linux](https://github.com/KamalDGRT/Linux).
+- 🌱 I’m currently experimenting with various Linux distros and scripts.
 - 👯 I’m looking to collaborate on good Open Source Projects.
 - 🤔 I’m looking for help with learning ML, DL and AI.
 - 💬 Ask me about PHP or any tech related stuff.
