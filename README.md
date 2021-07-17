@@ -11,13 +11,13 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on [Linux](https://github.com/KamalDGRT/Linux).
-- 🌱 I’m currently experimenting with various Linux distros and scripts.
-- 👯 I’m looking to collaborate on good Open Source Projects.
-- 🤔 I’m looking for help with learning ML, DL and AI.
-- 💬 Ask me about PHP or any tech related stuff.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamaldgrt/)
-- 😄 Pronouns: He/His
+-   🔭 I’m currently working on [Linux](https://github.com/KamalDGRT/Linux).
+-   🌱 I’m currently experimenting with various Linux distros and scripts.
+-   👯 I’m looking to collaborate on good Open Source Projects.
+-   🤔 I’m looking for help with learning ML, DL and AI.
+-   💬 Ask me about PHP or any tech related stuff.
+-   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamaldgrt/)
+-   😄 Pronouns: He/His
 
 [![Linkedin: kamaldgrt](https://img.shields.io/badge/-kamaldgrt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamaldgrt/)](https://www.linkedin.com/in/kamaldgrt/)
 [![GitHub KamalDGRT](https://img.shields.io/github/followers/KamalDGRT?label=follow&style=social)](https://github.com/KamalDGRT)
@@ -28,9 +28,6 @@
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=technosummit)](https://github.com/KamalDGRT/technosummit)
 
 <h3 align="center"><strong>Show some ❤️ by starring some of the repositories!</strong></h3>
-
-<details close>
-<summary><b>More about me!</b> <i>(click to expand!)</i></summary>
   
 ### Languages and Tools:
 
@@ -63,5 +60,3 @@ And at last some stats to show consistency 😍😉.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamalDGRT" alt="KamalDGRT" /></p>
 
 [![Kamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=KamalDGRT&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
