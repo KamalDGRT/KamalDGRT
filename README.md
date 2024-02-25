@@ -57,6 +57,4 @@
 And at last some stats to show consistency 😍😉.
 ```
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=KamalDGRT" alt="KamalDGRT" /></p>
-
 [![Kamal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KamalDGRT&bg_color=ffffff&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
