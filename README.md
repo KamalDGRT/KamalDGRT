@@ -11,23 +11,16 @@
 
 <br/><br/>
 
--   🔭 I’m currently working on [Linux](https://github.com/KamalDGRT/Linux).
+-   🔭 I’m currently working on [Sahayak](https://github.com/KamalDGRT/Sahayak).
 -   🌱 I’m currently experimenting with developing and deploying APIs.
 -   👯 I’m looking to collaborate on good Open Source Projects.
--   🤔 I’m looking for help with learning ML, DL and AI.
--   💬 Ask me about PHP or any tech related stuff.
+-   🤔 I’m looking for help with learning Android Application Development.
+-   💬 Ask me about iOS or any tech related stuff.
 -   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kamaldgrt/)
--   😄 Pronouns: He/His
 
 [![Linkedin: kamaldgrt](https://img.shields.io/badge/-kamaldgrt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamaldgrt/)](https://www.linkedin.com/in/kamaldgrt/)
 [![GitHub KamalDGRT](https://img.shields.io/github/followers/KamalDGRT?label=follow&style=social)](https://github.com/KamalDGRT)
 
-### Proud Creator of 😎
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=SetupStuff)](https://github.com/KamalDGRT/SetupStuff)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=technosummit)](https://github.com/KamalDGRT/technosummit)
-
-<h3 align="center"><strong>Show some ❤️ by starring some of the repositories!</strong></h3>
   
 ### Languages and Tools:
 
@@ -46,15 +39,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-### Profile Overview 👀
+### Proud Creator of 😎
 
-<a href="https://github.com/KamalDGRT">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KamalDGRT&show_icons=true&theme=light&line_height=25" alt="Kamal's GitHub stats"/>
-</a>
-<br><br>
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=KamalDGRT&repo=Sahayak)](https://github.com/KamalDGRT/Sahayak)
 
-```
-And at last some stats to show consistency 😍😉.
-```
+<h3 align="center"><strong>Show some ❤️ by starring some of the repositories!</strong></h3>
 
-[![Kamal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KamalDGRT&bg_color=ffffff&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
